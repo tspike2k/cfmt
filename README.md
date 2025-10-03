@@ -1,4 +1,4 @@
-#cfmt
+# cfmt
 
 Proof-of-concept alternative to printf for C.
 
